@@ -1,5 +1,8 @@
 {
-  "extends": "@repo/typescript-config/react-library.json",
+  "compilerOptions": {
+    "jsx": "react"
+  },
+  "extends": "aldebaran-typescript-config/react-library.json",
   "include": ["."],
   "exclude": ["dist", "build", "node_modules"]
 }

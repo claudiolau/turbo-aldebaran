@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "name":"turbo-aldebaran",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
