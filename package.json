@@ -1,7 +1,7 @@
 {
   "name":"turbo-aldebaran",
   "scripts": {
-    "build": "turbo run build",
+    "build-storybook": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "clean": "turbo run clean && rm -rf node_modules",
