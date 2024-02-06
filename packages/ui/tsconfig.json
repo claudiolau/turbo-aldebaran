@@ -2,7 +2,7 @@
   "compilerOptions": {
     "jsx": "react"
   },
-  "extends": "aldebaran-typescript-config/react-library.json",
+  "extends": "aldebaran-ts-config/react-library.json",
   "include": ["."],
   "exclude": ["dist", "build", "node_modules"]
 }

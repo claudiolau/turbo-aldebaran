@@ -1,5 +1,5 @@
 {
-  "extends": "aldebaran-typescript-config/react-app.json",
+  "extends": "aldebaran-ts-config/react-app.json",
   "include": ["."],
   "exclude": ["dist", "build", "node_modules"]
 }

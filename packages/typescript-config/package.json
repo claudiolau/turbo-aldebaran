@@ -1,5 +1,5 @@
 {
-  "name": "aldebaran-typescript-config",
+  "name": "aldebaran-ts-config",
   "version": "0.1.0",
   "publishConfig": {
     "access": "public"
