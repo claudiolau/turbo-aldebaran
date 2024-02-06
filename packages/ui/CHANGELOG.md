@@ -1,5 +1,11 @@
 # aldebaran-ui
 
+## 0.2.0
+
+### Minor Changes
+
+- f7e096b: updated libraries
+
 ## 0.1.0
 
 ### Minor Changes
