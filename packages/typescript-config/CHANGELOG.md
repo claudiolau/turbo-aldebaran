@@ -1,4 +1,4 @@
-# aldebaran-typescript-config
+# aldebaran-ts-config
 
 ## 0.1.0
 

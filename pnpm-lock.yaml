@@ -54,7 +54,7 @@ importers:
       aldebaran-eslint-config:
         specifier: workspace:*
         version: link:../../packages/eslint-config
-      aldebaran-typescript-config:
+      aldebaran-ts-config:
         specifier: workspace:*
         version: link:../../packages/typescript-config
       chromatic:
@@ -107,7 +107,7 @@ importers:
       aldebaran-eslint-config:
         specifier: workspace:*
         version: link:../eslint-config
-      aldebaran-typescript-config:
+      aldebaran-ts-config:
         specifier: workspace:*
         version: link:../typescript-config
       eslint:
