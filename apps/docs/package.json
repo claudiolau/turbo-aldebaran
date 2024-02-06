@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "storybook dev -p 6006",
     "build": "storybook build --docs",
+    "build-storybook":"storybook build --docs",
     "preview-storybook": "serve storybook-static",
     "clean": "rm -rf .turbo && rm -rf node_modules",
     "lint": "eslint ./stories/*.stories.tsx --max-warnings 0"
@@ -16,7 +17,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "aldebaran-eslint-config": "workspace:*",
     "@storybook/addon-actions": "^7.6.7",
     "@storybook/addon-docs": "^7.6.7",
     "@storybook/addon-essentials": "^7.6.7",
@@ -24,10 +24,12 @@
     "@storybook/react": "^7.6.7",
     "@storybook/react-vite": "^7.6.7",
     "@vitejs/plugin-react": "^4.2.1",
+    "aldebaran-eslint-config": "workspace:*",
+    "aldebaran-typescript-config": "workspace:*",
+    "chromatic": "^10.7.1",
     "eslint": "^8.56.0",
     "serve": "^14.2.1",
     "storybook": "^7.6.7",
-    "aldebaran-typescript-config": "workspace:*",
     "typescript": "^5.3.3",
     "vite": "^5.0.10"
   }

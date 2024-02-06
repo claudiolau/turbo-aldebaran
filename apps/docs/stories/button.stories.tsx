@@ -6,7 +6,7 @@ const meta: Meta<typeof Button> = {
   argTypes: {
     type: {
       control: { type: "radio" },
-      options: ["button", "submit", "reset"],
+      options: ["button", "submit!", "reset"],
     },
   },
 };

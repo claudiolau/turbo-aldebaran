@@ -11,6 +11,9 @@ const config = {
 		getAbsolutePath("@storybook/addon-essentials"),
 		getAbsolutePath("@storybook/addon-docs"),
 	],
+	features: {
+        storyStoreV7: false
+    },
 	framework: {
 		name: getAbsolutePath("@storybook/react-vite"),
 		options: {},
