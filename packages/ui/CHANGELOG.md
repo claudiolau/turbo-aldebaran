@@ -1,5 +1,11 @@
 # aldebaran-ui
 
+## 1.0.0
+
+### Major Changes
+
+- [#10](https://github.com/claudiolau/turbo-aldebaran/pull/10) [`5c6edf9`](https://github.com/claudiolau/turbo-aldebaran/commit/5c6edf97414bec0beeeb72d341c99ccd7475c32d) Thanks [@claudiolau](https://github.com/claudiolau)! - first major version
+
 ## 0.4.0
 
 ### Minor Changes
