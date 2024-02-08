@@ -1,5 +1,11 @@
 # aldebaran-ts-config
 
+## 0.4.0
+
+### Minor Changes
+
+- bump up
+
 ## 0.3.0
 
 ### Minor Changes

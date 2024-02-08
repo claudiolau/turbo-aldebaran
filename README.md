@@ -1,6 +1,7 @@
-# Turborepo Design System Starter
+# turbo-aldebaran
 
-This guide explains how to use a React design system starter powered by:
+[![npm version](https://img.shields.io/npm/v/pnpm.svg?label=latest)](https://github.com/pnpm/pnpm/releases/latest)
+
 
 - 🏎 [Turborepo](https://turbo.build/repo) — High-performance build system for Monorepos
 - 🚀 [React](https://reactjs.org/) — JavaScript library for user interfaces
@@ -14,14 +15,6 @@ As well as a few others tools preconfigured:
 - [Prettier](https://prettier.io) for code formatting
 - [Changesets](https://github.com/changesets/changesets) for managing versioning and changelogs
 - [GitHub Actions](https://github.com/changesets/action) for fully automated package publishing
-
-## Using this example
-
-Run the following command:
-
-```sh
-npx create-turbo@latest -e design-system
-```
 
 ### Useful Commands
 
