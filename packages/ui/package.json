@@ -13,8 +13,8 @@
     "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
     "dev": "tsup src/index.tsx --format esm,cjs --watch --dts --external react",
     "lint": "eslint . --max-warnings 0",
-    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist", 
-    "plop":"plop"
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist",
+    "plop": "plop"
   },
   "devDependencies": {
     "@types/react": "^18.2.46",

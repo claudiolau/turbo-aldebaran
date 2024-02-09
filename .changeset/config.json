@@ -9,6 +9,6 @@
   "linked": [],
   "access": "public",
   "updateInternalDependencies": "patch",
-  "ignore": ["aldebaran-docs"], 
+  "ignore": ["aldebaran-docs"],
   "baseBranch": "main"
 }
