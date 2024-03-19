@@ -1,5 +1,11 @@
 # aldebaran-eslint-config
 
+## 2.0.0
+
+### Major Changes
+
+- [#12](https://github.com/claudiolau/turbo-aldebaran/pull/12) [`58461d7`](https://github.com/claudiolau/turbo-aldebaran/commit/58461d746aaa0375dfc01c7e501c74dde2ea3798) Thanks [@claudiolau](https://github.com/claudiolau)! - update-maintance
+
 ## 1.0.0
 
 ### Major Changes
