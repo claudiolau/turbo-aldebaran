@@ -1,5 +1,15 @@
 # aldebaran-eslint-config
 
+## 2.1.0
+
+### Minor Changes
+
+- [#14](https://github.com/claudiolau/turbo-aldebaran/pull/14) [`4638ade`](https://github.com/claudiolau/turbo-aldebaran/commit/4638ade8fe9b281e574e2e2878681ffb94b719ff) Thanks [@claudiolau](https://github.com/claudiolau)! - minor
+
+### Patch Changes
+
+- [#14](https://github.com/claudiolau/turbo-aldebaran/pull/14) [`5f596d6`](https://github.com/claudiolau/turbo-aldebaran/commit/5f596d60a4229204309e5931d10573453f1c62d1) Thanks [@claudiolau](https://github.com/claudiolau)! - minor lint
+
 ## 2.0.0
 
 ### Major Changes
