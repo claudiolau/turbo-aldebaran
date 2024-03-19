@@ -1,5 +1,11 @@
 # aldebaran-ui
 
+## 2.4.0
+
+### Minor Changes
+
+- [#20](https://github.com/claudiolau/turbo-aldebaran/pull/20) [`c4220d7`](https://github.com/claudiolau/turbo-aldebaran/commit/c4220d7772dc4d00e457c4887003b01094d4cdde) Thanks [@claudiolau](https://github.com/claudiolau)! - minor update to main.js
+
 ## 2.3.0
 
 ### Minor Changes
