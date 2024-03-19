@@ -1,5 +1,11 @@
 # aldebaran-ts-config
 
+## 2.3.0
+
+### Minor Changes
+
+- [#18](https://github.com/claudiolau/turbo-aldebaran/pull/18) [`daa986e`](https://github.com/claudiolau/turbo-aldebaran/commit/daa986e22aabdfc37ef40e3410dcb02120ed2e81) Thanks [@claudiolau](https://github.com/claudiolau)! - minor
+
 ## 2.2.0
 
 ### Minor Changes
