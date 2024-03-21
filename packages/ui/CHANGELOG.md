@@ -1,5 +1,11 @@
 # aldebaran-ui
 
+## 2.5.0
+
+### Minor Changes
+
+- [#23](https://github.com/claudiolau/turbo-aldebaran/pull/23) [`f4d4ff0`](https://github.com/claudiolau/turbo-aldebaran/commit/f4d4ff0b62aee162191a3a43efefb512334ca8bc) Thanks [@claudiolau](https://github.com/claudiolau)! - minor import
+
 ## 2.4.0
 
 ### Minor Changes
