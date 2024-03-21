@@ -1,8 +1,8 @@
 {
-  "compilerOptions": {
-    "jsx": "react"
-  },
   "extends": "aldebaran-ts-config/react-library.json",
-  "include": ["."],
-  "exclude": ["dist", "build", "node_modules"]
+    "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src"
+  },
+  "include": ["src"]
 }

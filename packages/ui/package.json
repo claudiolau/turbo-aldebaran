@@ -1,22 +1,24 @@
 {
   "name": "aldebaran-ui",
   "version": "2.7.0",
-  "main": "./dist/index.js",
-  "module": "dist/index.mjs",
+  "files": [
+    "dist/**"
+  ],
+  "main": "./dist/foo.cjs",
+  "module": "./dist/foo.mjs",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
-      "require": "./dist/index.js",
-      "import": "./dist/index.mjs"
-    }
+      "types": "./dist/index.d.ts",
+      "require": "./dist/foo.cjs",
+      "import": "./dist/foo.mjs"
+    },
+    "./package.json": "./package.json"
   },
   "sideEffects": false,
   "license": "MIT",
-  "files": [
-    "dist"
-  ],
   "scripts": {
-    "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
+    "build": "tsup ./src",
     "dev": "tsup src/index.tsx --format esm,cjs --watch --dts --external react",
     "lint": "eslint . --max-warnings 0",
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist",
