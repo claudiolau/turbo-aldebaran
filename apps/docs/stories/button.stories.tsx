@@ -2,6 +2,7 @@ import { Button } from "aldebaran-ui";
 import type { Meta, StoryObj } from "@storybook/react";
 
 const meta: Meta<typeof Button> = {
+  title: "Component/Button",
   component: Button,
   argTypes: {
     type: {
@@ -32,8 +33,8 @@ export const Primary: Story = {
       Hello
     </Button>
   ),
-  name: "Button",
   args: {
+    title: "Component",
     children: "Hello",
     type: "button",
     style: {
